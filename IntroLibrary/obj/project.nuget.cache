@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2LpnzKlnVKDLwHdnxyLK6BNTuRqCFwGhdGGmGSoDYvfFuGoWqT31e1nlskyu8LO/eDn2KHF+/k8QGqQURPirQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patri\\Documents\\git_test\\vscode_test\\IntroLibrary\\IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

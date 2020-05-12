@@ -1,0 +1,16 @@
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.exe
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.deps.json
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.json
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.dev.json
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.dll
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.pdb
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroLibrary.dll
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\bin\Debug\netcoreapp3.1\IntroLibrary.pdb
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csprojAssemblyReference.cache
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CoreCompileInputs.cache
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfoInputs.cache
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfo.cs
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CopyComplete
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.dll
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.pdb
+C:\Users\patri\Documents\git_test\vscode_test\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.genruntimeconfig.cache

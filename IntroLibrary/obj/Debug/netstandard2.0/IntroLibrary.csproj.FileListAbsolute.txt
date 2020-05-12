@@ -1,0 +1,9 @@
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.deps.json
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.dll
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.pdb
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.csprojAssemblyReference.cache
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.csproj.CoreCompileInputs.cache
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.AssemblyInfoInputs.cache
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.AssemblyInfo.cs
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.dll
+C:\Users\patri\Documents\git_test\vscode_test\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.pdb
